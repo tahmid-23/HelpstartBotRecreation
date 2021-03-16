@@ -1,0 +1,7 @@
+logs/
+.idea/
+target/
+HelpstartBotRecreation.iml
+helpstart.exe
+run.bat
+dependency-reduced-pom.xml
